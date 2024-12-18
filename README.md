@@ -1,2 +1,2 @@
 # PROJET-POO
-DÉVELOPPEMENT D'UN JEU DE CASSE-TÊTE DE STYLE LABYRINTHE (MAZES) EN C++ AVEC RAYLIB 
+Ce projet est un jeu de labyrinthe développé avec la bibliothèque Raylib en C++. Le joueur commence au menu principal, puis s'immerge dans un labyrinthe généré aléatoirement, avec trois niveaux de difficulté (facile, moyen, difficile) qui influent sur la taille et la complexité. L'objectif est d'atteindre la sortie le plus rapidement possible, tout en naviguant dans un environnement captivant. Une fois le but atteint, le joueur est félicité dans l'écran de victoire. Ce jeu est conçu pour être engageant et offrir une expérience unique à chaque partie grâce à la génération procédurale des labyrinthes. 
